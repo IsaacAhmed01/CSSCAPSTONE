@@ -1,0 +1,14 @@
+body
+{
+    background-color: cyan;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.navbar {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p {
+    border: 5px solid red;
+  }
